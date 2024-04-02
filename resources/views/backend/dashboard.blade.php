@@ -12,7 +12,7 @@
                     <div class="w-full lg:w-6/12 xl:w-3/12 px-4">
                         <x-card-stats class="bg-white dark:bg-slate-800 text-slate-400">
                             <x-slot name="title">
-                                Karyawan
+                                Users
                             </x-slot>
                             <x-slot name="count">
                                 {{$jmlKaryawan}}
@@ -24,7 +24,7 @@
                             </x-slot>
                             <x-slot name="ket">
                                 <span class="whitespace-nowrap">
-                                    Jumlah karyawan
+                                    Jumlah Users
                                 </span>
                             </x-slot>
                         </x-card-stats>
