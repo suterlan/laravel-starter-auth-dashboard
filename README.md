@@ -72,7 +72,7 @@ composer install
 
 4. copy `.env.example` file and rename the copy to `.env`. This file is not in the repo because it is sensitive:
 ```shell
-cp .env.expample .env
+cp .env.example .env
 ```
 
 5. Configure the database information in the `.env` file (`DB_*`).
@@ -120,6 +120,11 @@ npm run dev
 php artisan serve
 ```
 
+13. Type the link below in your browser:
+```shell
+http://localhost:8000
+```
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -139,6 +144,8 @@ php artisan serve
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-## Support
+Anda dapat menggunakan ataupun merubah kode pada aplikasi dengan tanpa menghilangkan sumber link repo berasal.
 
+## Support
+Support projek ini dengan mentraktir kami melalui :
 [Saweria](https://saweria.co/suterlan).
